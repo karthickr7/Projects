@@ -1,2 +1,2 @@
-# kr
+# Projects
 Karthick R
