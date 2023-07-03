@@ -6,6 +6,7 @@
 # In[6]:
 
 
+
 #import necessary passages
 import yfinance as yf #we used Yahoo finance
 import pandas as pd
