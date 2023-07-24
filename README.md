@@ -1,2 +1,2 @@
-# karthick r
-Hello! This is Karthick and I welcome you to my Github Profile.
+# Stock Price Chart
+  The scope of this project is to create a simple Streamlit application to obtain Price and Volume chart from Yahoo finance.
